@@ -1,13 +1,7 @@
-Please run the code in following order to populate the Output Folder
+Please run the scripts in the following order
 
-01 - Moodys
-01a - FRED
-01b - Other Sources
-01c - Join for Master
+00 - Libraries
+Scripts contained in 01 - Imports and Merges
+Scripts contained in 02 - Data Preperation
+Scripts contained in 03 - Analysis
 
-To ensure more accurate models, run the following scripts:
-
-01d - Monthly Set, Housing Starts
-01e - Quarterly Set, Median Sale Price
-
-All filepaths are listed by which folder is necessary to run the script. 
